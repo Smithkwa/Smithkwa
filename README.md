@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dake
-- 👀 I’m interested in cubing
+- 👋 Hi, I’m @Smith kawai
+- 👀 I’m interested in cubing,coding,exercise
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me 
 
